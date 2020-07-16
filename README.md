@@ -1,1 +1,1 @@
-# TextSeparator
+# TextComposer
